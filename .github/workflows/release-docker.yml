@@ -8,7 +8,7 @@ on:
  
 env:
   DOCKER_HUB_USER: ${{ secrets.DOCKER_HUB_USER }}
-  DOCKER_IMAGE_NAME: aforo255-nodejs-process-movement
+  DOCKER_IMAGE_NAME: stiven255-nodejs-process-movement
  
 jobs:
   docker:
